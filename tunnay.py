@@ -107,8 +107,8 @@ print  """\033[1;91m
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "nabil"
-CorrectPassword = "nabil"
+CorrectUsername = "fbtunnay"
+CorrectPassword = "fbtunnay"
 
 loop = 'true'
 while (loop == 'true'):
@@ -116,14 +116,14 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
-            print "Logged By Nabil" + username
+            print "Logged By TunNay" + username
             loop = 'false'
         else:
             print "Baler Password"
-            os.system('https://www.youtube.com/channel/UC8km4e4REGBnOSknq82h_ew_confirmation=1 ')
+            os.system('https://www.facebook.com/tunnay20 ')
     else:
         print "Wrong Username"
-        os.system('https://www.youtube.com/channel/UC8km4e4REGBnOSknq82h_ew_confirmation=1 ')
+        os.system('https://www.facebook.com/tunnay20 ')
 
 def login():
 	os.system('clear')
